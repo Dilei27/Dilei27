@@ -2,14 +2,13 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
 
 <div>
-  <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i> Odirlei Alves </i></a>estou no último semestre do curso de Análise e Desenvolvimento de Sistemas. 😃️
-  <p align="center"> Sou apaixonado por tecnologia trabalho hoje com testes manuais e estou aprimorando meus conhecimentos na área de automação de testes com foco em "Cypress" e "RobotFramework".
+  <h1 align="center">Hello! How are you?? 😃️</h1>
+  <h2 align="center">My name is <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i> Odirlei Alves </i></a>I'm in the last semester of the Systems Analysis and Development course. 😃️
+  <p align="center"> I'm passionate about technology, I work today with manual tests and I'm improving my knowledge in the area of test automation with a focus on "Cypress" and "RobotFramework".
    </div>
 <!-- <h1 align="center"> 
   Trybe
 </h1>
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 <div align="center">
   <a href="https://github.com/Dilei27">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dilei27&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
