@@ -3,8 +3,8 @@
 
 <div>
   <h1 align="center">Hello! How are you?? 😃️</h1>
-  <h2 align="center">My name is <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i> Odirlei Alves </i></a>I'm in the last semester of the Systems Analysis and Development course. 😃️
-  <p align="center"> I'm passionate about technology, I work today with manual tests and i'm improving my knowledge in the area of test automation with a focus on "Cypress" and "RobotFramework".
+  <h2 align="center">My name is <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i> Odirlei Alves </i></a>I'm in the last semester of the Systems Analysis and   Development course. 😃️
+  <p align="center"> I'm passionate about technology, I work today with manual tests and i'm improving my knowledge in the area of test automation with a focus on Cypress and RobotFramework.
  </div>
 <!-- <h1 align="center"> 
   Trybe
