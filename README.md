@@ -7,15 +7,12 @@
   <p align="center"> I'm passionate about technology, I work today with manual tests and i'm improving my knowledge in the area of test automation with a focus on Cypress and RobotFramework.
  </div>
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-</div>
+  </div>
 
 
 <!-- <h1 align="center"> 
   Trybe
 </h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <a href="https://github.com/Dilei27">
