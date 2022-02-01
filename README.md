@@ -1,5 +1,8 @@
 
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
+
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 <div>
   <h1 align="center">Hello! How are you?? 😃️</h1>
