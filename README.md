@@ -37,7 +37,7 @@
 </div><br>
 <div align="center">
  <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dilei.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:dilei.alves@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   
