@@ -3,7 +3,7 @@
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i>Odirlei Alves</i></a>estou no último semestre do curso de Análise e Desenvolvimento de Sistemas. 😃️
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"><i> Odirlei Alves </i></a>estou no último semestre do curso de Análise e Desenvolvimento de Sistemas. 😃️
   <p align="center"> Sou apaixonado por tecnologia trabalho hoje com testes manuais e estou aprimorando meus conhecimentos na área de automação de testes com foco em "Cypress" e "Robotframework".
     <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="15%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
