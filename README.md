@@ -207,3 +207,19 @@ We own this identity.
 </p>
 
 <hr/>
+
+## 💻 Initializing J.A.R.V.I.S.O.
+
+<div align="center">
+
+```bash
+> Initializing J.A.R.V.I.S.O...
+> Loading hybrid QA modules...
+> Calibrating Human + Agent link...
+> Scanning regressions, logs and performance metrics...
+> Status: READY.
+```
+
+</div>
+
+---
