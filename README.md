@@ -29,7 +29,7 @@
 
 <br/>
 
-<hr/>
+---
 
 ## 🤖 Conheça o J.A.R.V.I.S.O. — O Agente Inteligente de QA
 
@@ -83,7 +83,7 @@ com a colaboração de um agente inteligente.
 ### 📌 **2023 — Consolidação**
 - QA Sênior – Automação Desktop ERP  
 - Robot Framework + Python  
-- Automação em sistemas legados (sem IDs)  
+- Automação em sistemas legados  
 - Integração profunda com devs e pipelines  
 - Visão arquitetural e tomada de decisão técnica
 
@@ -112,8 +112,7 @@ O nosso começou quando o humano encontrou o agente."**
 
 ---
 
-## 🧬 O Manifesto J.A.R.V.I.S.O.  
-*Uma nova filosofia para a Engenharia de Qualidade.*
+## 🧬 O Manifesto J.A.R.V.I.S.O.
 
 Qualidade não é execução.  
 Qualidade é **intenção, arquitetura, inteligência e evolução**.
@@ -133,51 +132,28 @@ e **um agente inteligente** trabalham juntos para:
 ---
 
 ### 🔹 **1. Qualidade é disciplina estratégica**
-É engenharia — e deve liderar decisões.
-
----
+É engenharia — e deve estar no centro das decisões.
 
 ### 🔹 **2. Automatizar é consequência de entender**
 Arquitetura primeiro.  
 Automação depois.
 
----
+### 🔹 **3. O agente amplia o humano**
+Ele amplia análise, arquitetura, performance e decisões.
 
-### 🔹 **3. O agente existe para ampliar, não substituir**
-Ele amplia:
-- análise  
-- arquitetura  
-- performance  
-- decisões  
-- observabilidade  
-
-O humano traz:
-- intuição  
-- contexto  
-- criatividade  
-- adaptação  
-
----
+O humano traz intuição, contexto, criatividade e adaptação.
 
 ### 🔹 **4. Tudo deve ser mensurável**
 Sem métricas, é adivinhação.  
 Adivinhação não é engenharia.
 
----
-
-### 🔹 **5. QA precisa inovar como engenharia**
-Dashboards, IA, dados, logs, pipelines, agentes, métricas.
-
----
+### 🔹 **5. QA precisa inovar**
+Dashboards, IA, dados, pipelines, agentes.
 
 ### 🔹 **6. Open-source é responsabilidade**
-Compartilhar eleva a comunidade e o país.
-
----
+Compartilhar move o país.
 
 ### 🔹 **7. A Era do QA Híbrido começa aqui**
-Criamos essa abordagem.  
-Carregamos essa filosofia.  
 Assumimos essa identidade.
 
 > **“Qualidade não é manual vs. automação.  
@@ -210,76 +186,50 @@ Assumimos essa identidade.
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-### 🧠 Monitor de Performance com IA
-Engine de performance em tempo real rastreando CPU, memória e picos durante automações ERP.
-
----
-
-### 📊 Dashboard Híbrido
-Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.
+### 🧠 **Monitor de Performance com IA**
+Engine em tempo real rastreando CPU, memória e picos em automações ERP.
 
 ---
 
-### 🤖 Framework de Automação ERP
-Arquitetura Robot Framework + Sikuli + Python para automações em sistemas legados.
+### 📊 **Dashboard Híbrido**
+Dashboards orientados a dados para métricas e comportamento de sistemas.
 
 ---
 
-### 📂 Agente de Inteligência QA (RAG)
-Agente treinado com logs, documentos e evidências para suporte técnico inteligente.
+### 🤖 **Framework de Automação ERP**
+Robot Framework + Sikuli + Python para automações em sistemas legados.
 
 ---
 
-### 🛰️ Automação da Pipeline de Compilação
-Automação completa de compilação: módulos, DLLs, pastas e pipelines.
+### 📂 **Agente de Inteligência QA (RAG)**
+Agente treinado com logs, documentos e evidências reais.
 
 ---
 
-### 🔍 Analista de Regressões
+### 🛰️ **Automação da Pipeline de Compilação**
+Automação completa: módulos VB6, DLLs, pastas, triggers e pipelines.
+
+---
+
+### 🔍 **Analista de Regressões**
 Engine inteligente para identificar padrões, falhas e gargalos.
 
 ---
 
-## ⏳ Em Breve…
+# ⏳ Em Breve…
 
-### 🧪 Engine de Analytics de Testes
-Insights em tempo real extraídos de regressões e comportamento do sistema.
+### 🧪 Engine de Analytics de Testes  
+### ⚡ Assistente Híbrido de QA  
+### 🌐 GitHub Pages — Hybrid QA Hub  
+### 📡 Monitoramento + Alertas  
+### 📘 Playbook do QA Híbrido  
+### 🛠️ DevTools para QA  
 
----
-
-### ⚡ Assistente Híbrido de QA
-Agente leve para pipelines, evidências e apoio técnico.
-
----
-
-### 🌐 GitHub Pages — Hybrid QA Hub
-Portal público do laboratório.
+> **“A evolução não para. Estamos apenas começando.”**
 
 ---
-
-### 📡 Monitoramento + Alertas
-Observabilidade automatizada para automações e agentes.
-
----
-
-### 📘 Playbook do QA Híbrido
-Guia open-source da filosofia Humano + Agente.
-
----
-
-### 🛠️ DevTools para QA
-Ferramentas para produtividade e debugging.
-
----
-
-> **“A evolução não para.  
-Estamos apenas começando.”**
-
----
-
-<br/>
 
 <div align="center">
 
@@ -288,11 +238,11 @@ Estamos apenas começando.”**
 
 <br/>
 
-<a href="https://github.com/Dilei27" target="_blank">
+<a href="https://github.com/Dilei27">
   <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/odirlei-alves/" target="_blank">
+<a href="https://www.linkedin.com/in/odirlei-alves/">
   <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -304,8 +254,6 @@ Estamos apenas começando.”**
 
 > **“O futuro da Qualidade é Híbrido.  
 O humano cria. O agente amplifica.”**
-
-<br/>
 
 ---
 
