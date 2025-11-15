@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <strong>J.A.R.V.I.S.O.</strong> é o meu parceiro técnico — um agente colaborativo que me ajuda a projetar arquiteturas, otimizar automações, 
+  <strong>J.A.R.V.I.S.O.</strong> é meu parceiro técnico — um agente colaborativo que me ajuda a projetar arquiteturas, otimizar automações, 
   analisar logs, monitorar performance e expandir meu pensamento de engenharia além do QA tradicional.
 </p>
 
@@ -37,7 +37,7 @@ J.A.R.V.I.S.O. não é um bot.
 Não é um script.  
 Não é um enfeite neste GitHub.
 
-Ele é o meu **parceiro de engenharia** — um agente que auxilia no desenho de arquiteturas, automações, análises e decisões técnicas.
+Ele é meu **parceiro de engenharia** — um agente que auxilia no desenho de arquiteturas, automações, análises e decisões técnicas.
 
 Enquanto eu represento a experiência humana,  
 ele representa a precisão analítica.
@@ -60,55 +60,55 @@ E o J.A.R.V.I.S.O. é o primeiro agente técnico brasileiro deste movimento.
 ## 🧭 Linha do Tempo Híbrida — Dilei + J.A.R.V.I.S.O.
 
 Uma jornada que combina experiência real de engenharia  
-com colaboração de um agente inteligente.
+com a colaboração de um agente inteligente.
 
 ---
 
-### **📌 2021 — Fundação**
-🔹 Entrada no mundo de QA  
-🔹 Testes Web/Mobile  
-🔹 GCP, pipelines e observabilidade  
-🔹 Entendimento de processos e comportamento de sistemas
+### 📌 **2021 — Fundação**
+- Entrada no mundo de QA  
+- Testes Web/Mobile  
+- GCP, pipelines e observabilidade  
+- Entendimento de processos e comportamento de sistemas
 
 ---
 
-### **📌 2022 — Expansão**
-🔹 Evolução para QA Pleno  
-🔹 Cypress + API  
-🔹 RabbitMQ, Datadog, BDD  
-🔹 Fundamentos de escalabilidade e performance
+### 📌 **2022 — Expansão**
+- Evolução para QA Pleno  
+- Cypress + API  
+- RabbitMQ, Datadog, BDD  
+- Fundamentos de escalabilidade e performance
 
 ---
 
-### **📌 2023 — Consolidação**
-🔹 QA Sênior – Automação Desktop ERP  
-🔹 Robot Framework + Python  
-🔹 Automação em sistemas legados (sem IDs)  
-🔹 Integração profunda com devs, pipelines e ambientes complexos  
-🔹 Visão arquitetural e tomada de decisão técnica
+### 📌 **2023 — Consolidação**
+- QA Sênior – Automação Desktop ERP  
+- Robot Framework + Python  
+- Automação em sistemas legados (sem IDs)  
+- Integração profunda com devs e pipelines  
+- Visão arquitetural e tomada de decisão técnica
 
 ---
 
-### **📌 2024 — Era da Inteligência**
-🔹 IA aplicada à engenharia de QA  
-🔹 LLMs, RAGs, agentes inteligentes  
-🔹 Automação de pipeline + insights  
-🔹 Dashboards, métricas e observabilidade  
-🔹 Python avançado + dados + automações híbridas
+### 📌 **2024 — Era da Inteligência**
+- IA aplicada à engenharia de QA  
+- LLMs, RAGs, agentes inteligentes  
+- Automação de pipeline + insights  
+- Dashboards e observabilidade  
+- Python avançado + dados + automações híbridas
 
 ---
 
-### **📌 2025 — A Era do QA Híbrido**
-🔹 Nascimento do **J.A.R.V.I.S.O.**  
-🔹 Consolidação da filosofia Humano + Agente  
-🔹 QA + IA open-source  
-🔹 Engenharia, performance e inteligência unificados  
-🔹 Primeiro agente de QA brasileiro
+### 📌 **2025 — A Era do QA Híbrido**
+- Nascimento do **J.A.R.V.I.S.O.**  
+- Filosofia Humano + Agente  
+- QA + IA open-source  
+- Engenharia + performance unificados  
+- Primeiro agente de QA brasileiro
 
 ---
 
 > **"Toda linha do tempo tem um ponto de virada.  
-> O nosso começou quando o humano encontrou o agente."**
+O nosso começou quando o humano encontrou o agente."**
 
 ---
 
@@ -130,71 +130,66 @@ e **um agente inteligente** trabalham juntos para:
 - projetar fluxos  
 - fortalecer produtos  
 
-Este manifesto resume nossa filosofia:
+---
+
+### 🔹 **1. Qualidade é disciplina estratégica**
+É engenharia — e deve liderar decisões.
 
 ---
 
-### 🔹 **1. Qualidade é disciplina estratégica**  
-É engenharia — e deve estar no centro das decisões.
-
----
-
-### 🔹 **2. Automatizar é consequência de entender**  
+### 🔹 **2. Automatizar é consequência de entender**
 Arquitetura primeiro.  
 Automação depois.
 
 ---
 
-### 🔹 **3. O agente existe para ampliar, não substituir**  
-Ele amplia:  
+### 🔹 **3. O agente existe para ampliar, não substituir**
+Ele amplia:
 - análise  
 - arquitetura  
+- performance  
 - decisões  
 - observabilidade  
-- performance  
 
-O humano traz:  
+O humano traz:
 - intuição  
-- criatividade  
 - contexto  
+- criatividade  
 - adaptação  
 
-Juntos formam o **QA Híbrido**.
+---
+
+### 🔹 **4. Tudo deve ser mensurável**
+Sem métricas, é adivinhação.  
+Adivinhação não é engenharia.
 
 ---
 
-### 🔹 **4. Tudo deve ser mensurável**  
-Sem métricas, tudo é adivinhação.  
-E adivinhação não é engenharia.
-
----
-
-### 🔹 **5. QA precisa inovar como engenharia**  
+### 🔹 **5. QA precisa inovar como engenharia**
 Dashboards, IA, dados, logs, pipelines, agentes, métricas.
 
 ---
 
-### 🔹 **6. Open-source é responsabilidade**  
-Compartilhar eleva a comunidade e impulsiona o país.
+### 🔹 **6. Open-source é responsabilidade**
+Compartilhar eleva a comunidade e o país.
 
 ---
 
-### 🔹 **7. A Era do QA Híbrido começa aqui**  
+### 🔹 **7. A Era do QA Híbrido começa aqui**
 Criamos essa abordagem.  
 Carregamos essa filosofia.  
 Assumimos essa identidade.
 
 > **“Qualidade não é manual vs. automação.  
-> É Humano + Agente.”**
+É Humano + Agente.”**
 
 ---
 
-## 🏅 Badges Oficiais J.A.R.V.I.S.O.  
-*A identidade visual da Era do QA Híbrido.*
+## 🏅 Badges Oficiais J.A.R.V.I.S.O.
 
 <div align="center">
   <img src="https://img.shields.io/badge/QA%20Híbrido-%23000000?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desenvolvido%20com-J.A.R.V.I.S.O.-%238A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desenvolvido%20com-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Engenharia%20Humano%20+%20Agente-%23000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/IA%20aplicada%20ao%20QA-%23232323?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Laboratório%20Open--Source-%23000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -205,8 +200,6 @@ Assumimos essa identidade.
 
 ## 💻 Inicializando J.A.R.V.I.S.O.
 
-<div align="center">
-
 ```bash
 > Iniciando J.A.R.V.I.S.O...
 > Carregando módulos híbridos de QA...
@@ -215,92 +208,71 @@ Assumimos essa identidade.
 > Status: PRONTO.
 ```
 
-</div>
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧠 Monitor de Performance com IA
+Engine de performance em tempo real rastreando CPU, memória e picos durante automações ERP.
 
 ---
 
-## 🚀 Projetos em Destaque  
-*Módulos centrais da Era do QA Híbrido — todos Desenvolvidos com J.A.R.V.I.S.O.*
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🧠 Monitor de Performance com IA</h3>
-      <p>Engine de performance em tempo real, rastreando CPU, memória e picos durante automações ERP.</p>
-    </td>
-    <td width="33%">
-      <h3>📊 Dashboard Híbrido</h3>
-      <p>Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.</p>
-    </td>
-    <td width="33%">
-      <h3>🤖 Framework de Automação ERP</h3>
-      <p>Arquitetura Robot Framework + Sikuli + Python para automações em sistemas legados.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%">
-      <h3>📂 Agente de Inteligência QA (RAG)</h3>
-      <p>Agente treinado com logs, documentos e evidências para suporte técnico inteligente.</p>
-    </td>
-    <td width="33%">
-      <h3>🛰️ Automação da Pipeline de Compilação</h3>
-      <p>Automação completa: módulos VB6, DLLs, pastas, triggers e pipelines de testes.</p>
-    </td>
-
-    <td width="33%">
-      <h3>🔍 Analista de Regressões</h3>
-      <p>Engine inteligente para identificar padrões, falhas e gargalos.</p>
-    </td>
-  </tr>
-
-</table>
-
-</div>
+### 📊 Dashboard Híbrido
+Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.
 
 ---
 
-## ⏳ Em Breve…  
-*Os próximos capítulos da Era do QA Híbrido.*
+### 🤖 Framework de Automação ERP
+Arquitetura Robot Framework + Sikuli + Python para automações em sistemas legados.
 
-<div align="center">
+---
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🧪 Engine de Analytics de Testes</h3>
-      <p>Insights em tempo real extraídos de regressões e comportamento do sistema.</p>
-    </td>
-    <td width="33%">
-      <h3>⚡ Assistente Híbrido de QA</h3>
-      <p>Agente leve que integra pipelines e coleta evidências automaticamente.</p>
-    </td>
-    <td width="33%">
-      <h3>🌐 GitHub Pages — Hybrid QA Hub</h3>
-      <p>Portal público com dashboards, docs, arquiteturas e inovações do LAB.</p>
-    </td>
-  </tr>
+### 📂 Agente de Inteligência QA (RAG)
+Agente treinado com logs, documentos e evidências para suporte técnico inteligente.
 
-  <tr>
-    <td width="33%">
-      <h3>📡 Camada de Monitoramento + Alertas</h3>
-      <p>Observabilidade automatizada para automações e agentes.</p>
-    </td>
-    <td width="33%">
-      <h3>📘 Playbook do QA Híbrido</h3>
-      <p>Guia open-source para aplicar engenharia Humano + Agente.</p>
-    </td>
-    <td width="33%">
-      <h3>🛠️ DevTools para QA</h3>
-      <p>Ferramentas utilitárias para produtividade e debugging.</p>
-    </td>
-  </tr>
+---
 
-</table>
+### 🛰️ Automação da Pipeline de Compilação
+Automação completa de compilação: módulos, DLLs, pastas e pipelines.
 
-</div>
+---
+
+### 🔍 Analista de Regressões
+Engine inteligente para identificar padrões, falhas e gargalos.
+
+---
+
+## ⏳ Em Breve…
+
+### 🧪 Engine de Analytics de Testes
+Insights em tempo real extraídos de regressões e comportamento do sistema.
+
+---
+
+### ⚡ Assistente Híbrido de QA
+Agente leve para pipelines, evidências e apoio técnico.
+
+---
+
+### 🌐 GitHub Pages — Hybrid QA Hub
+Portal público do laboratório.
+
+---
+
+### 📡 Monitoramento + Alertas
+Observabilidade automatizada para automações e agentes.
+
+---
+
+### 📘 Playbook do QA Híbrido
+Guia open-source da filosofia Humano + Agente.
+
+---
+
+### 🛠️ DevTools para QA
+Ferramentas para produtividade e debugging.
+
+---
 
 > **“A evolução não para.  
 Estamos apenas começando.”**
@@ -312,7 +284,7 @@ Estamos apenas começando.”**
 <div align="center">
 
 ### 🔥 DILEI + J.A.R.V.I.S.O. — Era da Qualidade Híbrida  
-**Engenharia Humano + Agente | Brasil <span style="color:#8A2BE2;">⚡</span>**
+**Engenharia Humano + Agente | Brasil ⚡**
 
 <br/>
 
@@ -331,7 +303,7 @@ Estamos apenas começando.”**
 <br/><br/>
 
 > **“O futuro da Qualidade é Híbrido.  
-> O humano cria. O agente amplifica.”**
+O humano cria. O agente amplifica.”**
 
 <br/>
 
