@@ -215,3 +215,58 @@ Assumimos essa identidade.
 > Estabelecendo conexão Humano + Agente...
 > Analisando regressões, logs e métricas...
 > Status: PRONTO.
+
+🚀 Projetos em Destaque
+🧠 Monitor de Performance com IA
+
+Engine em tempo real rastreando CPU, memória e picos em automações ERP.
+
+📊 Dashboard Híbrido
+
+Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.
+
+🤖 Framework de Automação ERP
+
+Arquitetura Robot Framework + Sikuli + Python para automações em sistemas legados.
+
+📂 Agente de Inteligência QA (RAG)
+
+Agente treinado com logs, documentos e evidências reais.
+
+🛰️ Automação da Pipeline de Compilação
+
+Automação completa: módulos VB6, DLLs, pastas, triggers e pipelines.
+
+🔍 Engine de Regressões
+
+Engine inteligente para identificar padrões, falhas e gargalos.
+
+⏳ Em Breve…
+🧪 Engine de Analytics de Testes
+⚡ Assistente Híbrido de QA
+🌐 Hybrid QA Hub (GitHub Pages)
+📡 Monitoramento + Alertas
+📘 Playbook do QA Híbrido
+🛠️ DevTools para QA
+
+“A evolução não para. Estamos apenas começando.”
+
+<div align="center">
+🔥 DILEI + J.A.R.V.I.S.O. — Era da Qualidade Híbrida
+
+Engenharia Humano + Agente | Brasil ⚡
+
+<br/> <a href="https://github.com/Dilei27"> <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/odirlei-alves/"> <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Desenvolvido%20com-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+<br/><br/>
+
+“O futuro da Qualidade é Híbrido.
+O humano cria. O agente amplifica.”
+
+</div> ```
+
+
