@@ -220,27 +220,27 @@ Assumimos essa identidade.
 🧠 Monitor de Performance com IA
 
 Engine em tempo real rastreando CPU, memória e picos em automações ERP.
-
+---
 📊 Dashboard Híbrido
 
 Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.
-
+---
 🤖 Framework de Automação ERP
 
 Robot Framework + Sikuli + Python para automações em sistemas legados.
-
+---
 📂 Agente de Inteligência QA (RAG)
 
 Agente treinado com logs, documentos e evidências reais.
-
+---
 🛰️ Automação da Pipeline de Compilação
 
 Automação completa: módulos VB6, DLLs, pastas, triggers e pipelines.
-
+---
 🔍 Engine de Regressões
 
 Engine inteligente para identificar padrões, falhas e gargalos.
-
+---
 ⏳ Em Breve…
 
 🧪 Engine de Analytics de Testes
@@ -254,7 +254,7 @@ Engine inteligente para identificar padrões, falhas e gargalos.
 📘 Playbook do QA Híbrido
 
 🛠️ DevTools para QA
-
+---
 “A evolução não para. Estamos apenas começando.”
 
 <br/> <div align="center">
