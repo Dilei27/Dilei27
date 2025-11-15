@@ -223,3 +223,142 @@ We own this identity.
 </div>
 
 ---
+
+---
+
+## 🚀 Featured Projects  
+*Core modules of the Hybrid QA Era — all Powered by J.A.R.V.I.S.O.*
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🧠 AI Performance Monitor</h3>
+      <p>A real-time performance engine tracking CPU, memory and execution spikes in ERP automations.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+    <td width="33%">
+      <h3>📊 Hybrid Dashboard Engine</h3>
+      <p>Data-driven dashboards for automation insights, metrics, trends and system behavior analysis.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+    <td width="33%">
+      <h3>🤖 ERP Desktop Automation Framework</h3>
+      <p>Robot Framework + Sikuli + Python architecture for legacy ERP automation at scale.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%">
+      <h3>📂 QA Intelligence Agent (RAG)</h3>
+      <p>An agent trained with logs, docs and test evidence for intelligent QA assistance and debugging.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+    <td width="33%">
+      <h3>🛰️ Compilation Pipeline Automator</h3>
+      <p>End-to-end automation for compilation: modules, DLLs, folders, triggers and test pipelines.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+
+    <td width="33%">
+      <h3>🔍 Regression Analyzer</h3>
+      <p>A smart regression engine that identifies patterns, errors, bottlenecks and performance issues.</p>
+      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## ⏳ Coming Soon…  
+*Next chapters of the Hybrid QA Era.*
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🧪 Test Analytics Engine</h3>
+      <p>Real-time insights extracted from regressions, patterns, system behaviors and execution anomalies.</p>
+    </td>
+    <td width="33%">
+      <h3>⚡ Hybrid QA Assistant</h3>
+      <p>A lightweight agent that integrates with pipelines, collects evidence and provides decision support.</p>
+    </td>
+    <td width="33%">
+      <h3>🌐 GitHub Pages — Hybrid QA Hub</h3>
+      <p>A public portal displaying dashboards, architectures, docs and innovations from the LAB.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%">
+      <h3>📡 Monitoring + Alerting Layer</h3>
+      <p>Automated observability for automations, agents, performance and error detection.</p>
+    </td>
+    <td width="33%">
+      <h3>📘 The Hybrid QA Playbook</h3>
+      <p>A structured, open-source guide to applying Human + Agent engineering in real environments.</p>
+    </td>
+    <td width="33%">
+      <h3>🛠️ DevTools for QA</h3>
+      <p>Utilities, helpers and small engineering tools developed for debugging and productivity.</p>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+<br/>
+
+> **“A evolução não para.  
+> Estamos apenas escrevendo os primeiros capítulos.”**
+
+---
+
+---
+
+<br/>
+
+<div align="center">
+
+### 🔥 DILEI + J.A.R.V.I.S.O. — Hybrid QA Era  
+**Human + Agent Engineering | Brazil <span style="color:#8A2BE2;">⚡</span>**
+
+<br/>
+
+<a href="https://github.com/Dilei27" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/odirlei-alves/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+<br/><br/>
+
+> **“The future of Quality is Hybrid.  
+> Human creates. Agent amplifies.”**
+
+<br/>
+
+---
+
+</div>
+
