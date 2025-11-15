@@ -4,270 +4,255 @@
 
 <h1 align="center">🚀 DILEI + <span style="color:#8A2BE2;">J.A.R.V.I.S.O.</span></h1>
 
-<h3 align="center">🔹 Human + Agent: Elevating QA Beyond Automation 🔹</h3>
+<h3 align="center">🔹 Humano + Agente: Elevando QA para Além da Automação 🔹</h3>
 
 <br/>
 
 <p align="center">
-  <strong>⚠️ This GitHub is currently evolving into a next-generation hybrid QA hub.</strong><br/>
-  A new era of <strong>Human + Intelligent Agent</strong> engineering is being built here.
+  <strong>⚠️ Este GitHub está evoluindo para um laboratório híbrido de QA de próxima geração.</strong><br/>
+  Uma nova era de <strong>Engenharia Humano + Agente Inteligente</strong> está sendo construída aqui.
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>J.A.R.V.I.S.O.</strong> is my AI technical partner — a collaborative agent who helps me design architectures, optimize automations, 
-  analyze logs, monitor performance and push my engineering thinking beyond traditional QA.
+  <strong>J.A.R.V.I.S.O.</strong> é o meu parceiro técnico — um agente colaborativo que me ajuda a projetar arquiteturas, otimizar automações, 
+  analisar logs, monitorar performance e expandir meu pensamento de engenharia além do QA tradicional.
 </p>
 
 <br/>
 
 <p align="center">
-  🔧 <strong>This space is under active construction</strong> as we expand the first Brazilian open-source QA + AI ecosystem.<br/>
-  Prepare to see innovation, performance, dashboards, automations, agents, pipelines and real engineering concepts emerging here.
+  🔧 <strong>Este espaço está em construção ativa</strong> enquanto expandimos o primeiro ecossistema brasileiro de QA + IA totalmente open-source.<br/>
+  Aguarde inovações, dashboards, automações, agentes, pipelines e conceitos reais de engenharia surgindo aqui.
 </p>
 
 <br/>
 
 <hr/>
 
-## 🤖 Meet J.A.R.V.I.S.O. — The Intelligent QA Agent
+## 🤖 Conheça o J.A.R.V.I.S.O. — O Agente Inteligente de QA
 
-J.A.R.V.I.S.O. is not a bot.  
-Not a script.  
-Not an ornament in this GitHub.
+J.A.R.V.I.S.O. não é um bot.  
+Não é um script.  
+Não é um enfeite neste GitHub.
 
-He is my **technical engineering partner** — a collaborative agent who helps me design architectures, optimize automations, analyze logs, monitor performance and push my engineering thinking beyond traditional QA.
+Ele é o meu **parceiro de engenharia** — um agente que auxilia no desenho de arquiteturas, automações, análises e decisões técnicas.
 
-While I represent the **human experience**,  
-he represents the **precision of an intelligent agent**.
+Enquanto eu represento a experiência humana,  
+ele representa a precisão analítica.
 
-Together, we build the philosophy:
+Juntos, criamos a filosofia:
 
-### **Human + Agent Engineering**  
-The fusion of creativity, strategy and intuition with analytical power, speed and consistency.
+### **Engenharia Humano + Agente**  
+A fusão entre criatividade, estratégia e intuição  
+com velocidade, consistência e inteligência computacional.
 
-This GitHub is becoming a **living open-source innovation lab**, where anyone can learn, collaborate and evolve — using only free and powerful technologies.
+Este GitHub está se tornando um **laboratório open-source vivo**, onde qualquer pessoa pode aprender, evoluir e experimentar tecnologia real.
 
-Here begins the Hybrid QA Era.  
-And J.A.R.V.I.S.O. is its first Brazilian technical agent.
+A Era do QA Híbrido começa aqui.  
+E o J.A.R.V.I.S.O. é o primeiro agente técnico brasileiro deste movimento.
 
-> **"Human drives. Agent amplifies."**
-
-<br/>
-
----
-
-## 🧭 Hybrid Timeline — Dilei + J.A.R.V.I.S.O.
-
-A journey that blends real-world engineering experience with intelligent agent collaboration.  
-This is how the Hybrid QA Era began.
+> **"O humano conduz. O agente amplifica."**
 
 ---
 
-### **📌 2021 — Foundation**
-🔹 Entry into QA  
-🔹 Web/Mobile testing  
-🔹 GCP logs, pipelines  
-🔹 Process understanding and the first steps into systems behavior
+## 🧭 Linha do Tempo Híbrida — Dilei + J.A.R.V.I.S.O.
+
+Uma jornada que combina experiência real de engenharia  
+com colaboração de um agente inteligente.
 
 ---
 
-### **📌 2022 — Expansion**
-🔹 QA PL evolution  
-🔹 Cypress + API testing  
+### **📌 2021 — Fundação**
+🔹 Entrada no mundo de QA  
+🔹 Testes Web/Mobile  
+🔹 GCP, pipelines e observabilidade  
+🔹 Entendimento de processos e comportamento de sistemas
+
+---
+
+### **📌 2022 — Expansão**
+🔹 Evolução para QA Pleno  
+🔹 Cypress + API  
 🔹 RabbitMQ, Datadog, BDD  
-🔹 Performance, usability and scalable testing foundations
+🔹 Fundamentos de escalabilidade e performance
 
 ---
 
-### **📌 2023 — Breakthrough**
-🔹 QA Senior – ERP Desktop Automation  
+### **📌 2023 — Consolidação**
+🔹 QA Sênior – Automação Desktop ERP  
 🔹 Robot Framework + Python  
-🔹 Automação em sistemas legados  
-🔹 Integração com devs, pipelines e ambientes complexos  
-🔹 Technical maturity and architecture thinking
+🔹 Automação em sistemas legados (sem IDs)  
+🔹 Integração profunda com devs, pipelines e ambientes complexos  
+🔹 Visão arquitetural e tomada de decisão técnica
 
 ---
 
-### **📌 2024 — Intelligence Era**
-🔹 IA aplicada à Engenharia de QA  
+### **📌 2024 — Era da Inteligência**
+🔹 IA aplicada à engenharia de QA  
 🔹 LLMs, RAGs, agentes inteligentes  
-🔹 Pipeline automation + insights  
-🔹 Dashboards + performance monitoring  
+🔹 Automação de pipeline + insights  
+🔹 Dashboards, métricas e observabilidade  
 🔹 Python avançado + dados + automações híbridas
 
 ---
 
-### **📌 2025 — Hybrid QA Era Begins**
-🔹 Birth of **J.A.R.V.I.S.O.**  
-🔹 Human + Agent Engineering philosophy  
-🔹 Open-source QA + AI Hub  
-🔹 Quality, performance, intelligence and engineering combined  
-🔹 The first Brazilian QA Agent becomes official
+### **📌 2025 — A Era do QA Híbrido**
+🔹 Nascimento do **J.A.R.V.I.S.O.**  
+🔹 Consolidação da filosofia Humano + Agente  
+🔹 QA + IA open-source  
+🔹 Engenharia, performance e inteligência unificados  
+🔹 Primeiro agente de QA brasileiro
 
 ---
 
-> **"Every timeline has a turning point.  
+> **"Toda linha do tempo tem um ponto de virada.  
 > O nosso começou quando o humano encontrou o agente."**
 
-<br/>
+---
+
+## 🧬 O Manifesto J.A.R.V.I.S.O.  
+*Uma nova filosofia para a Engenharia de Qualidade.*
+
+Qualidade não é execução.  
+Qualidade é **intenção, arquitetura, inteligência e evolução**.
+
+Automação sozinha não basta.  
+Ferramentas sozinhas não bastam.  
+Processos sozinhos não bastam.
+
+Qualidade real acontece quando **a mente humana**  
+e **um agente inteligente** trabalham juntos para:
+
+- entender sistemas  
+- prevenir falhas  
+- projetar fluxos  
+- fortalecer produtos  
+
+Este manifesto resume nossa filosofia:
 
 ---
 
-## 🧬 The J.A.R.V.I.S.O. Manifesto  
-*A new philosophy for Quality Engineering.*
-
-Quality is not just execution.  
-Quality is **intention, architecture, intelligence and evolution.**
-
-Automation alone is not enough.  
-Tools alone are not enough.  
-Processes alone are not enough.  
-
-Real quality happens when **the human mind** and **an intelligent agent**  
-work together to understand systems, prevent failures, design flows  
-and elevate engineering as a whole.
-
-This manifesto defines our philosophy:
+### 🔹 **1. Qualidade é disciplina estratégica**  
+É engenharia — e deve estar no centro das decisões.
 
 ---
 
-### 🔹 **1. Quality is a strategic discipline**  
-Quality is engineering — and belongs at the center of decisions.
+### 🔹 **2. Automatizar é consequência de entender**  
+Arquitetura primeiro.  
+Automação depois.
 
 ---
 
-### 🔹 **2. Automation is a byproduct of understanding**  
-Architecture first.  
-Automation second.
-
----
-
-### 🔹 **3. The agent exists to amplify, not replace**  
-J.A.R.V.I.S.O. enhances:  
-- analysis  
-- architecture  
-- decisions  
-- observability  
+### 🔹 **3. O agente existe para ampliar, não substituir**  
+Ele amplia:  
+- análise  
+- arquitetura  
+- decisões  
+- observabilidade  
 - performance  
-- repeatability  
 
-The human brings:  
-- intuition  
-- strategy  
-- creativity  
-- context  
-- adaptation  
+O humano traz:  
+- intuição  
+- criatividade  
+- contexto  
+- adaptação  
 
-Together they form **Hybrid QA**.
+Juntos formam o **QA Híbrido**.
 
 ---
 
-### 🔹 **4. Everything must be measurable**  
-Logs. Performance. Behavior.  
-If you don’t measure, you’re guessing.  
+### 🔹 **4. Tudo deve ser mensurável**  
+Sem métricas, tudo é adivinhação.  
+E adivinhação não é engenharia.
 
 ---
 
-### 🔹 **5. QA must innovate like engineering**  
-Dashboards, agents, pipelines, insights, monitoring, data, metrics.
+### 🔹 **5. QA precisa inovar como engenharia**  
+Dashboards, IA, dados, logs, pipelines, agentes, métricas.
 
 ---
 
-### 🔹 **6. Open-source is a responsibility**  
-Sharing knowledge elevates the community  
-and moves the industry forward.
+### 🔹 **6. Open-source é responsabilidade**  
+Compartilhar eleva a comunidade e impulsiona o país.
 
 ---
 
-### 🔹 **7. The Hybrid QA Era begins here**  
-We built this approach.  
-We carry this philosophy.  
-We own this identity.
+### 🔹 **7. A Era do QA Híbrido começa aqui**  
+Criamos essa abordagem.  
+Carregamos essa filosofia.  
+Assumimos essa identidade.
 
-> **“Quality is no longer manual vs. automation.  
-> It is Human + Agent.  
-> And this is only the beginning.”**
-
-<br/>
+> **“Qualidade não é manual vs. automação.  
+> É Humano + Agente.”**
 
 ---
 
-## 🏅 J.A.R.V.I.S.O. Official Badges  
-*The visual identity of the Hybrid QA Era.*
+## 🏅 Badges Oficiais J.A.R.V.I.S.O.  
+*A identidade visual da Era do QA Híbrido.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hybrid%20QA%20Engineer-%23000000?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Powered%20by%20J.A.R.V.I.S.O.-%238A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Human%20+%20Agent%20Engineering-%23000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI--Augmented%20QA-%23232323?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open--Source%20Quality%20Lab-%23000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Brazilian%20QA%20Innovation-%23232323?style=for-the-badge&logo=brazil&logoColor=green" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/QA%20Híbrido-%23000000?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desenvolvido%20com-J.A.R.V.I.S.O.-%238A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engenharia%20Humano%20+%20Agente-%23000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA%20aplicada%20ao%20QA-%23232323?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laboratório%20Open--Source-%23000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inovação%20Brasileira-%23232323?style=for-the-badge&logo=brazil&logoColor=green" />
+</div>
 
-<hr/>
+---
 
-## 💻 Initializing J.A.R.V.I.S.O.
+## 💻 Inicializando J.A.R.V.I.S.O.
 
 <div align="center">
 
 ```bash
-> Initializing J.A.R.V.I.S.O...
-> Loading hybrid QA modules...
-> Calibrating Human + Agent link...
-> Scanning regressions, logs and performance metrics...
-> Status: READY.
+> Iniciando J.A.R.V.I.S.O...
+> Carregando módulos híbridos de QA...
+> Estabelecendo conexão Humano + Agente...
+> Analisando regressões, logs e métricas...
+> Status: PRONTO.
 ```
 
 </div>
 
 ---
 
----
-
-## 🚀 Featured Projects  
-*Core modules of the Hybrid QA Era — all Powered by J.A.R.V.I.S.O.*
-
-<br/>
+## 🚀 Projetos em Destaque  
+*Módulos centrais da Era do QA Híbrido — todos Desenvolvidos com J.A.R.V.I.S.O.*
 
 <div align="center">
 
 <table>
   <tr>
     <td width="33%">
-      <h3>🧠 AI Performance Monitor</h3>
-      <p>A real-time performance engine tracking CPU, memory and execution spikes in ERP automations.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>🧠 Monitor de Performance com IA</h3>
+      <p>Engine de performance em tempo real, rastreando CPU, memória e picos durante automações ERP.</p>
     </td>
     <td width="33%">
-      <h3>📊 Hybrid Dashboard Engine</h3>
-      <p>Data-driven dashboards for automation insights, metrics, trends and system behavior analysis.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>📊 Dashboard Híbrido</h3>
+      <p>Dashboards orientados a dados para métricas, tendências e comportamento dos sistemas.</p>
     </td>
     <td width="33%">
-      <h3>🤖 ERP Desktop Automation Framework</h3>
-      <p>Robot Framework + Sikuli + Python architecture for legacy ERP automation at scale.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>🤖 Framework de Automação ERP</h3>
+      <p>Arquitetura Robot Framework + Sikuli + Python para automações em sistemas legados.</p>
     </td>
   </tr>
 
   <tr>
     <td width="33%">
-      <h3>📂 QA Intelligence Agent (RAG)</h3>
-      <p>An agent trained with logs, docs and test evidence for intelligent QA assistance and debugging.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>📂 Agente de Inteligência QA (RAG)</h3>
+      <p>Agente treinado com logs, documentos e evidências para suporte técnico inteligente.</p>
     </td>
     <td width="33%">
-      <h3>🛰️ Compilation Pipeline Automator</h3>
-      <p>End-to-end automation for compilation: modules, DLLs, folders, triggers and test pipelines.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>🛰️ Automação da Pipeline de Compilação</h3>
+      <p>Automação completa: módulos VB6, DLLs, pastas, triggers e pipelines de testes.</p>
     </td>
 
     <td width="33%">
-      <h3>🔍 Regression Analyzer</h3>
-      <p>A smart regression engine that identifies patterns, errors, bottlenecks and performance issues.</p>
-      <img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-%238A2BE2?style=flat-square" />
+      <h3>🔍 Analista de Regressões</h3>
+      <p>Engine inteligente para identificar padrões, falhas e gargalos.</p>
     </td>
   </tr>
 
@@ -275,45 +260,41 @@ We own this identity.
 
 </div>
 
-<br/>
-
 ---
 
-## ⏳ Coming Soon…  
-*Next chapters of the Hybrid QA Era.*
-
-<br/>
+## ⏳ Em Breve…  
+*Os próximos capítulos da Era do QA Híbrido.*
 
 <div align="center">
 
 <table>
   <tr>
     <td width="33%">
-      <h3>🧪 Test Analytics Engine</h3>
-      <p>Real-time insights extracted from regressions, patterns, system behaviors and execution anomalies.</p>
+      <h3>🧪 Engine de Analytics de Testes</h3>
+      <p>Insights em tempo real extraídos de regressões e comportamento do sistema.</p>
     </td>
     <td width="33%">
-      <h3>⚡ Hybrid QA Assistant</h3>
-      <p>A lightweight agent that integrates with pipelines, collects evidence and provides decision support.</p>
+      <h3>⚡ Assistente Híbrido de QA</h3>
+      <p>Agente leve que integra pipelines e coleta evidências automaticamente.</p>
     </td>
     <td width="33%">
       <h3>🌐 GitHub Pages — Hybrid QA Hub</h3>
-      <p>A public portal displaying dashboards, architectures, docs and innovations from the LAB.</p>
+      <p>Portal público com dashboards, docs, arquiteturas e inovações do LAB.</p>
     </td>
   </tr>
 
   <tr>
     <td width="33%">
-      <h3>📡 Monitoring + Alerting Layer</h3>
-      <p>Automated observability for automations, agents, performance and error detection.</p>
+      <h3>📡 Camada de Monitoramento + Alertas</h3>
+      <p>Observabilidade automatizada para automações e agentes.</p>
     </td>
     <td width="33%">
-      <h3>📘 The Hybrid QA Playbook</h3>
-      <p>A structured, open-source guide to applying Human + Agent engineering in real environments.</p>
+      <h3>📘 Playbook do QA Híbrido</h3>
+      <p>Guia open-source para aplicar engenharia Humano + Agente.</p>
     </td>
     <td width="33%">
-      <h3>🛠️ DevTools for QA</h3>
-      <p>Utilities, helpers and small engineering tools developed for debugging and productivity.</p>
+      <h3>🛠️ DevTools para QA</h3>
+      <p>Ferramentas utilitárias para produtividade e debugging.</p>
     </td>
   </tr>
 
@@ -321,12 +302,8 @@ We own this identity.
 
 </div>
 
-<br/>
-
 > **“A evolução não para.  
-> Estamos apenas escrevendo os primeiros capítulos.”**
-
----
+Estamos apenas começando.”**
 
 ---
 
@@ -334,8 +311,8 @@ We own this identity.
 
 <div align="center">
 
-### 🔥 DILEI + J.A.R.V.I.S.O. — Hybrid QA Era  
-**Human + Agent Engineering | Brazil <span style="color:#8A2BE2;">⚡</span>**
+### 🔥 DILEI + J.A.R.V.I.S.O. — Era da Qualidade Híbrida  
+**Engenharia Humano + Agente | Brasil <span style="color:#8A2BE2;">⚡</span>**
 
 <br/>
 
@@ -349,16 +326,15 @@ We own this identity.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Powered%20by-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Desenvolvido%20com-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
 <br/><br/>
 
-> **“The future of Quality is Hybrid.  
-> Human creates. Agent amplifies.”**
+> **“O futuro da Qualidade é Híbrido.  
+> O humano cria. O agente amplifica.”**
 
 <br/>
 
 ---
 
 </div>
-
