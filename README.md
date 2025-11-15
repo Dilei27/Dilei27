@@ -262,7 +262,7 @@ Engine inteligente para identificar padrões, falhas e gargalos.
 
 Engenharia Humano + Agente | Brasil ⚡
 
-<br/> <a href="https://github.com/Dilei27"> <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/odirlei-alves/"> <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br/> <a href="https://github.com/Dilei27"> <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"> <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 <br/><br/>
 
