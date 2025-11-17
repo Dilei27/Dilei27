@@ -1,14 +1,12 @@
 # 🔥 DILEI + J.A.R.V.I.S.O. — O Laboratório Brasileiro de QA Híbrido  
 ## 🚀 Engenharia Humano + Agente
 
-Este GitHub representa um novo conceito na Engenharia de Qualidade:
+Este GitHub representa um conceito moderno na Engenharia de Qualidade:
 
-### **Você cria.  
-O agente pilota.  
-A engenharia evolui.**
+### **Você cria. O agente pilota. A engenharia evolui.**
 
 Aqui você projeta automações, frameworks, pipelines e monitores que o  
-**J.A.R.V.I.S.O. pode pilotar e melhorar autonomamente**, usando apenas tecnologia open-source.
+**J.A.R.V.I.S.O.** pode pilotar e melhorar autonomamente, usando somente tecnologia open-source.
 
 Tudo é criado para ser:
 
@@ -25,16 +23,15 @@ J.A.R.V.I.S.O. é um agente técnico projetado para:
 
 - analisar logs  
 - identificar falhas  
-- sugerir melhorias  
 - otimizar cenários  
 - monitorar performance  
-- atuar no ecossistema criado por você  
+- sugerir melhorias  
+- atuar autonomamente no ecossistema criado por você  
 
 Ele não substitui o QA.  
 Ele **expande** sua capacidade.
 
-> **“A inteligência não substitui.  
-A inteligência amplifica.”**
+> _“A inteligência não substitui. A inteligência amplifica.”_
 
 ---
 
@@ -53,15 +50,15 @@ A inteligência amplifica.”**
 ## **2023 — Consolidação**
 - Automação Desktop ERP  
 - Robot Framework + Python + Sikuli  
-- Integração profunda com devs e pipelines  
+- Trabalho profundo com devs e pipelines  
 
 ## **2024 — Inteligência**
-- Dashboards e monitoramento  
+- Dashboards, métricas e monitoramento  
 - LLMs, RAGs, agentes técnicos  
 - Insights automatizados  
 
-## **2025 — A Era do QA Híbrido**
-- Nasce o **J.A.R.V.I.S.O.**  
+## **2025 — Era do QA Híbrido**
+- Nascimento do **J.A.R.V.I.S.O.**  
 - Filosofia “Humano cria. Agente pilota.”  
 - Ferramentas open-source autogerenciáveis  
 
@@ -69,26 +66,26 @@ A inteligência amplifica.”**
 
 # 🧬 Manifesto do QA Híbrido
 
-### 1️⃣ Qualidade é estratégica  
+## 1️⃣ Qualidade é estratégica  
 Não é etapa. É arquitetura.
 
-### 2️⃣ Automação é consequência  
+## 2️⃣ Automação é consequência  
 Entender → projetar → automatizar.
 
-### 3️⃣ O agente pilota o que você cria  
+## 3️⃣ O agente pilota o que você cria  
 O humano é visão.  
 O agente é precisão.
 
-### 4️⃣ Tudo deve ser medido  
+## 4️⃣ Tudo deve ser medido  
 Sem métricas, não há engenharia.
 
-### 5️⃣ QA deve inovar  
+## 5️⃣ QA deve inovar  
 IA, dados, arquitetura, pipelines, automação.
 
-### 6️⃣ Open-source é poder  
+## 6️⃣ Open-source é poder  
 Ferramentas livres, evolução contínua.
 
-### 7️⃣ O laboratório começa aqui  
+## 7️⃣ O laboratório começa aqui  
 Você cria.  
 O agente evolui.  
 A engenharia se transforma.
@@ -98,12 +95,12 @@ A engenharia se transforma.
 # 🚀 Projetos Criados por Dilei e Pilotados por J.A.R.V.I.S.O.
 
 ### 🧠 **Monitor de Performance**
-Rastreia CPU, memória, picos e eventos.
+CPU, memória, picos, eventos.
 
 ### 📊 **Dashboard Híbrido**
 Observabilidade completa das regressões.
 
-### 🤖 **Framework de Automação ERP**
+### 🤖 **Framework ERP**
 Robot Framework + Sikuli + Python.
 
 ### 📂 **Agente RAG**
@@ -119,14 +116,14 @@ Identificação automática de padrões e gargalos.
 
 # ⏳ Em Breve
 
-- Engine de Analytics  
+- Engine de Analytics de Testes  
 - Assistente Híbrido de QA  
 - Hybrid QA Hub (GitHub Pages)  
 - Monitoramento + Alertas  
 - Playbook do QA Híbrido  
 - DevTools para QA  
 
-> **“A evolução não para. Estamos só começando.”**
+> _“A evolução não para. Estamos só começando.”_
 
 ---
 
