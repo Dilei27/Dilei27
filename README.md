@@ -1,5 +1,5 @@
  
-A Primeira Plataforma Brasileira de QA Autônomo Open-Source
+
 <!-- ============================= --> <!-- BANNER --> <!-- ============================= --> <p align="center"> <img src="./banner.png" width="100%" alt="DILEI + J.A.R.V.I.S.O. — Era do QA Autônomo"> </p> <br/> <!-- ============================= --> <!-- TÍTULO PRINCIPAL --> <!-- ============================= --> <h1 align="center">⚡ DILEI + <span style="color:#8A2BE2;">J.A.R.V.I.S.O.</span></h1> <h3 align="center">🔹 Engenharia Humano + Agente — o Primeiro Ecossistema Brasileiro de QA Autônomo 🔹</h3> <br/> <p align="center"> <strong style="font-size:17px;"> Eu construo ferramentas, pipelines, engines e automações open-source. <br/> O agente assume o controle, monitora, executa e evolui tudo autonomamente. </strong> </p> <p align="center"><em>“O humano cria. O agente pilota. O ecossistema evolui.”</em></p> <br/> <!-- ============================= --> <!-- DIVISOR NEON --> <!-- ============================= --> <p align="center"> <img src="https://img.shields.io/badge/──────────────────────────────────────────-8A2BE2?style=flat" width="80%"> </p> <br/>
 🧠 O Conceito Central — O LAB de QA Autônomo
 
