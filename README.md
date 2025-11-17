@@ -1,195 +1,149 @@
-🔥 DILEI + J.A.R.V.I.S.O. — O LABORATÓRIO BRASILEIRO DE QA HÍBRIDO
-<p align="center"> <img src="./banner.png" width="100%" alt="Banner Futurista — Dilei + J.A.R.V.I.S.O."> </p> <br/>
-🚀 Engenharia Humano + Agente: Uma Nova Arquitetura para a Qualidade
+🔥 DILEI + J.A.R.V.I.S.O. — O Laboratório Brasileiro de QA Híbrido
+🚀 Engenharia Humano + Agente
 
-Este GitHub representa um conceito moderno:
+Este GitHub representa um conceito moderno na Engenharia de Qualidade:
 
 **Você cria.
 
 O agente pilota.
-O sistema evolui sozinho.**
+A engenharia evolui.**
 
-Aqui, tudo que é desenvolvido — automações, pipelines, dashboards, monitores, agentes e frameworks — nasce para ser autônomo, observável e potencializado por um agente inteligente.
+Neste laboratório, tudo é construído para ser:
 
-O objetivo deste laboratório é simples:
+open-source
 
-✔ Construir ferramentas 100% open-source
-✔ Torná-las autoexecutáveis e autoconscientes
-✔ Para que o J.A.R.V.I.S.O. monitore, melhore e interaja em tempo real
+observável
 
-Sem depender de ferramentas pagas.
-Sem depender de terceiros.
-Sem depender de processos manuais.
+autônomo
 
-Você projeta.
-O agente assume o volante.
+pilotado por agente inteligente
 
-🤖 Quem é J.A.R.V.I.S.O.? — O Piloto das Suas Criações
+O objetivo é simples:
+Criar soluções reais — automações, pipelines, dashboards, monitores e frameworks — que o J.A.R.V.I.S.O. possa pilotar, monitorar e otimizar em tempo real, sem depender de ferramentas pagas ou terceiros.
 
-J.A.R.V.I.S.O. não substitui você.
-Ele expande o que você cria.
+Você projeta a arquitetura.
+O agente assume a direção.
 
-Ele pilota:
+🤖 J.A.R.V.I.S.O. — O Piloto das Suas Criações
 
-suas automações
+J.A.R.V.I.S.O. é um agente técnico projetado para:
 
-seus pipelines
+analisar logs
 
-seus monitores de performance
+identificar falhas
 
-seus dashboards
+otimizar cenários
 
-seus agentes RAG
+monitorar performance
 
-sua pipeline de compilação
+sugerir melhorias
 
-seus testes híbridos
+agir autonomamente dentro do ecossistema criado por você
 
-E também entrega:
+Ele não substitui o QA.
+Ele expande sua capacidade.
 
-insights
+“A inteligência não substitui. A inteligência amplifica.”
 
-otimizações
+🧭 Linha do Tempo — A Evolução Até Aqui
+2021 — Fundação
 
-detecção de gargalos
-
-análise de logs
-
-sugestões arquiteturais
-
-decisões inteligentes em tempo real
-
-“A inteligência não é o destino da automação.
-É a evolução dela.”
-
-No seu laboratório, ele é o copiloto.
-No código, ele é o executor.
-Na engenharia, ele é a inteligência.
-
-🧭 Linha do Tempo — A Evolução Até o QA Híbrido
-📌 2021 — Fundação
-
-Entrada em QA
+Início em QA
 
 Testes Web/Mobile
 
-GCP + Pipelines
+Observabilidade + GCP
 
-Comportamento de sistemas
-
-📌 2022 — Expansão
-
-QA Pleno
+2022 — Expansão
 
 Cypress + API
 
-RabbitMQ, BDD, Datadog
+RabbitMQ, Datadog, BDD
 
-Escalabilidade de testes
+Escalabilidade e performance
 
-📌 2023 — Consolidação
+2023 — Consolidação
 
-Automação Desktop ERP (sistemas legados)
+Automação Desktop ERP (legado)
 
 Robot Framework + Python + Sikuli
 
-Integração completa com devs e pipelines
+Trabalho profundo com devs e pipelines
 
-Maturidade técnica e arquitetural
+2024 — Inteligência
 
-📌 2024 — Inteligência
+Dashboards, métricas e monitoramento
 
-Dashboards + Observabilidade
+LLMs, RAGs, agentes técnicos
 
-Engenharia de Performance
+Insights automatizados
 
-RAGs, LLMs, IA aplicada ao QA
-
-Automação de pipelines com inteligência
-
-📌 2025 — Era do QA Híbrido
+2025 — Era do QA Híbrido
 
 Nasce o J.A.R.V.I.S.O.
 
-A filosofia muda: Humano projeta. Agente pilota.
+Filosofia “Humano cria, agente pilota”
 
-Criação do laboratório open-source
+Ferramentas open-source autogerenciáveis
 
-Frameworks autogerenciáveis
+🧬 Manifesto do QA Híbrido
+1️⃣ Qualidade é estratégica
 
-Primeiro agente técnico de QA brasileiro
+Não é etapa. É arquitetura.
 
-🧬 Manifesto Oficial do QA Híbrido
-1️⃣ Qualidade é Arquitetura
+2️⃣ Automação é consequência
 
-Não é etapa.
-É visão sistêmica.
+Entender → projetar → automatizar.
 
-2️⃣ Automatizar é consequência
+3️⃣ O agente pilota o que você cria
 
-Nunca o objetivo principal.
-Primeiro entender, depois automatizar.
+O humano é visão.
+O agente é precisão.
 
-3️⃣ O agente pilota
+4️⃣ Tudo deve ser medido
 
-Ele age, monitora, identifica, antecipa e otimiza.
-Você cria o motor; ele mantém a máquina evoluindo.
-
-4️⃣ Tudo é medido
-
-CPU, memória, tempo, falhas, padrões, tendência.
 Sem métricas, não há engenharia.
 
-5️⃣ Open-source é poder
+5️⃣ QA deve inovar
 
-Ferramentas livres = evolução sem barreiras.
+IA, dados, automação, arquitetura, pipelines.
 
-6️⃣ IA + Engenharia
+6️⃣ Open-source é poder
 
-Não é hype.
-É o caminho natural da qualidade moderna.
+Ferramentas livres, evolução contínua.
 
-7️⃣ O Laboratório Começa Aqui
+7️⃣ O laboratório começa aqui
 
 Você cria.
 O agente evolui.
-Juntos, formam o QA Híbrido.
+A engenharia se transforma.
 
-🏅 Badges Oficiais J.A.R.V.I.S.O.
-<p align="center"> <img src="https://img.shields.io/badge/QA%20Híbrido-000000?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Pilotado%20por-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Engenharia%20Autônoma-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/IA%20no%20QA-232323?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Laboratório%20Open--Source-000000?style=for-the-badge&logo=python&logoColor=white" /> </p>
-💻 Inicializando J.A.R.V.I.S.O.
-> Inicializando J.A.R.V.I.S.O...
-> Carregando módulos de automação...
-> Conectando ao Laboratório Híbrido...
-> Escaneando sistemas, logs e métricas...
-> Status: PILOTANDO.
+🚀 Projetos Criados por Dilei, Pilotados por J.A.R.V.I.S.O.
+🧠 Monitor de Performance
 
-🚀 Projetos Criados por Dilei e Pilotados por J.A.R.V.I.S.O.
-🧠 Monitor de Performance com IA
-
-Rastreia CPU, memória, picos e eventos durante automações do ERP.
+CPU, memória, picos, eventos.
 
 📊 Dashboard Híbrido
 
-Painéis inteligentes para métricas, regressões, status e tendências.
+Observabilidade total das regressões.
 
-🤖 Framework de Automação ERP
+🤖 Framework ERP
 
-Robot Framework + Sikuli + Python em sistemas legados sem IDs.
+Robot Framework + Sikuli + Python.
 
-📂 Agente QA (RAG)
+📂 Agente RAG
 
-Busca inteligente em evidências, logs, PDFs e regras de negócio.
+Busca inteligente por logs, evidências e regras.
 
 🛰️ Pipeline de Compilação Automatizada
 
-Compila módulos, limpa versões antigas, libera releases e dispara testes.
+Compila releases, atualiza pastas, dispara testes.
 
-🔍 Engine de Análise de Regressões
+🔍 Engine de Regressões
 
-Identifica padrões, tendências e gargalos automaticamente.
+Detecta gargalos, padrões e falhas automaticamente.
 
-⏳ Em Breve…
+⏳ Em Breve
 
 Engine de Analytics
 
@@ -197,25 +151,25 @@ Assistente Híbrido de QA
 
 Hybrid QA Hub (GitHub Pages)
 
-Camada de Monitoramento + Alertas
+Monitoramento + Alertas
 
 Playbook do QA Híbrido
 
 DevTools para QA
 
-“A evolução não para. Estamos apenas começando.”
+“A evolução não para. Estamos só começando.”
 
-🔥 Rodapé Oficial
+🔥 Rodapé
 <div align="center">
-DILEI + J.A.R.V.I.S.O. — A Nova Era da Qualidade
 
+DILEI + J.A.R.V.I.S.O. — A Nova Era da Qualidade
 Engenharia Humano + Agente | Brasil ⚡
 
 <br/> <a href="https://github.com/Dilei27"> <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"> <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pilotado%20por-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Pilotado%20por-J.A.R.V.I.S.O.-8A2BE2?style=for-the-badge" />
 
 <br/><br/>
 
