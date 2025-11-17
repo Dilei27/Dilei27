@@ -1,171 +1,151 @@
-🔥 DILEI + J.A.R.V.I.S.O. — O Laboratório Brasileiro de QA Híbrido
-🚀 Engenharia Humano + Agente
+# 🔥 DILEI + J.A.R.V.I.S.O. — O Laboratório Brasileiro de QA Híbrido  
+## 🚀 Engenharia Humano + Agente
 
-Este GitHub representa um conceito moderno na Engenharia de Qualidade:
+Este GitHub representa um novo conceito na Engenharia de Qualidade:
 
-**Você cria.
-
-O agente pilota.
+### **Você cria.  
+O agente pilota.  
 A engenharia evolui.**
 
-Neste laboratório, tudo é construído para ser:
+Aqui você projeta automações, frameworks, pipelines e monitores que o  
+**J.A.R.V.I.S.O. pode pilotar e melhorar autonomamente**, usando apenas tecnologia open-source.
 
-open-source
+Tudo é criado para ser:
 
-observável
+- **Open-source**  
+- **Observável**  
+- **Autônomo**  
+- **Pilotado por agente inteligente**
 
-autônomo
+---
 
-pilotado por agente inteligente
-
-O objetivo é simples:
-Criar soluções reais — automações, pipelines, dashboards, monitores e frameworks — que o J.A.R.V.I.S.O. possa pilotar, monitorar e otimizar em tempo real, sem depender de ferramentas pagas ou terceiros.
-
-Você projeta a arquitetura.
-O agente assume a direção.
-
-🤖 J.A.R.V.I.S.O. — O Piloto das Suas Criações
+# 🤖 J.A.R.V.I.S.O. — O Piloto das Suas Criações
 
 J.A.R.V.I.S.O. é um agente técnico projetado para:
 
-analisar logs
+- analisar logs  
+- identificar falhas  
+- sugerir melhorias  
+- otimizar cenários  
+- monitorar performance  
+- atuar no ecossistema criado por você  
 
-identificar falhas
+Ele não substitui o QA.  
+Ele **expande** sua capacidade.
 
-otimizar cenários
+> **“A inteligência não substitui.  
+A inteligência amplifica.”**
 
-monitorar performance
+---
 
-sugerir melhorias
+# 🧭 Linha do Tempo — A Evolução Até Aqui
 
-agir autonomamente dentro do ecossistema criado por você
+## **2021 — Fundação**
+- Início em QA  
+- Testes Web/Mobile  
+- Observabilidade + GCP  
 
-Ele não substitui o QA.
-Ele expande sua capacidade.
+## **2022 — Expansão**
+- Cypress + API  
+- RabbitMQ, Datadog, BDD  
+- Escalabilidade e performance  
 
-“A inteligência não substitui. A inteligência amplifica.”
+## **2023 — Consolidação**
+- Automação Desktop ERP  
+- Robot Framework + Python + Sikuli  
+- Integração profunda com devs e pipelines  
 
-🧭 Linha do Tempo — A Evolução Até Aqui
-2021 — Fundação
+## **2024 — Inteligência**
+- Dashboards e monitoramento  
+- LLMs, RAGs, agentes técnicos  
+- Insights automatizados  
 
-Início em QA
+## **2025 — A Era do QA Híbrido**
+- Nasce o **J.A.R.V.I.S.O.**  
+- Filosofia “Humano cria. Agente pilota.”  
+- Ferramentas open-source autogerenciáveis  
 
-Testes Web/Mobile
+---
 
-Observabilidade + GCP
+# 🧬 Manifesto do QA Híbrido
 
-2022 — Expansão
-
-Cypress + API
-
-RabbitMQ, Datadog, BDD
-
-Escalabilidade e performance
-
-2023 — Consolidação
-
-Automação Desktop ERP (legado)
-
-Robot Framework + Python + Sikuli
-
-Trabalho profundo com devs e pipelines
-
-2024 — Inteligência
-
-Dashboards, métricas e monitoramento
-
-LLMs, RAGs, agentes técnicos
-
-Insights automatizados
-
-2025 — Era do QA Híbrido
-
-Nasce o J.A.R.V.I.S.O.
-
-Filosofia “Humano cria, agente pilota”
-
-Ferramentas open-source autogerenciáveis
-
-🧬 Manifesto do QA Híbrido
-1️⃣ Qualidade é estratégica
-
+### 1️⃣ Qualidade é estratégica  
 Não é etapa. É arquitetura.
 
-2️⃣ Automação é consequência
-
+### 2️⃣ Automação é consequência  
 Entender → projetar → automatizar.
 
-3️⃣ O agente pilota o que você cria
-
-O humano é visão.
+### 3️⃣ O agente pilota o que você cria  
+O humano é visão.  
 O agente é precisão.
 
-4️⃣ Tudo deve ser medido
-
+### 4️⃣ Tudo deve ser medido  
 Sem métricas, não há engenharia.
 
-5️⃣ QA deve inovar
+### 5️⃣ QA deve inovar  
+IA, dados, arquitetura, pipelines, automação.
 
-IA, dados, automação, arquitetura, pipelines.
-
-6️⃣ Open-source é poder
-
+### 6️⃣ Open-source é poder  
 Ferramentas livres, evolução contínua.
 
-7️⃣ O laboratório começa aqui
-
-Você cria.
-O agente evolui.
+### 7️⃣ O laboratório começa aqui  
+Você cria.  
+O agente evolui.  
 A engenharia se transforma.
 
-🚀 Projetos Criados por Dilei, Pilotados por J.A.R.V.I.S.O.
-🧠 Monitor de Performance
+---
 
-CPU, memória, picos, eventos.
+# 🚀 Projetos Criados por Dilei e Pilotados por J.A.R.V.I.S.O.
 
-📊 Dashboard Híbrido
+### 🧠 **Monitor de Performance**
+Rastreia CPU, memória, picos e eventos.
 
-Observabilidade total das regressões.
+### 📊 **Dashboard Híbrido**
+Observabilidade completa das regressões.
 
-🤖 Framework ERP
-
+### 🤖 **Framework de Automação ERP**
 Robot Framework + Sikuli + Python.
 
-📂 Agente RAG
+### 📂 **Agente RAG**
+Busca inteligente em logs, docs e evidências.
 
-Busca inteligente por logs, evidências e regras.
+### 🛰️ **Pipeline de Compilação Automatizada**
+Compilação de módulos, atualização de pastas, disparo de testes.
 
-🛰️ Pipeline de Compilação Automatizada
+### 🔍 **Engine de Regressões**
+Identificação automática de padrões e gargalos.
 
-Compila releases, atualiza pastas, dispara testes.
+---
 
-🔍 Engine de Regressões
+# ⏳ Em Breve
 
-Detecta gargalos, padrões e falhas automaticamente.
+- Engine de Analytics  
+- Assistente Híbrido de QA  
+- Hybrid QA Hub (GitHub Pages)  
+- Monitoramento + Alertas  
+- Playbook do QA Híbrido  
+- DevTools para QA  
 
-⏳ Em Breve
+> **“A evolução não para. Estamos só começando.”**
 
-Engine de Analytics
+---
 
-Assistente Híbrido de QA
+# 🔥 Rodapé
 
-Hybrid QA Hub (GitHub Pages)
-
-Monitoramento + Alertas
-
-Playbook do QA Híbrido
-
-DevTools para QA
-
-“A evolução não para. Estamos só começando.”
-
-🔥 Rodapé
 <div align="center">
 
-DILEI + J.A.R.V.I.S.O. — A Nova Era da Qualidade
-Engenharia Humano + Agente | Brasil ⚡
+### **DILEI + J.A.R.V.I.S.O. — A Nova Era da Qualidade**  
+**Engenharia Humano + Agente | Brasil ⚡**
 
-<br/> <a href="https://github.com/Dilei27"> <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/"> <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br/>
+
+<a href="https://github.com/Dilei27">
+  <img src="https://img.shields.io/badge/GitHub-Dilei27-000000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/odirlei-alves-a9b14923/">
+  <img src="https://img.shields.io/badge/LinkedIn-Odirlei%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -173,8 +153,8 @@ Engenharia Humano + Agente | Brasil ⚡
 
 <br/><br/>
 
-“O humano cria.
-O agente pilota.
-A engenharia evolui.”
+**“O humano cria.  
+O agente pilota.  
+A engenharia evolui.”**
 
 </div>
